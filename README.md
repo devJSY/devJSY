@@ -28,8 +28,7 @@ ___
 ![Seungyeon Jung GitHub stats](https://github-readme-stats.vercel.app/api?username=devJSY&show_icons=true&theme=tokyonight)
 ___
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={wjdtmd486@naver.com})](https://solved.ac/{wjdtmd486@naver.com})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={wjdtmd486})](https://solved.ac/{wjdtmd486})
 
 
 <!--
