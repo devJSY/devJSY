@@ -32,7 +32,7 @@ ___
 ### **Github Profile**
 ![Seungyeon Jung GitHub stats](https://github-readme-stats.vercel.app/api?username=devJSY&show_icons=true&theme=tokyonight)
 ___
-### **BOJ LANK**
+### **BOJ Ranking**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtmd486)](https://solved.ac/wjdtmd486/)
 
 
