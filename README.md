@@ -29,7 +29,7 @@ ___
 ___
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={wjdtmd486})](https://solved.ac/{wjdtmd486})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={wjdtmd486@naver.com})](https://solved.ac/{wjdtmd486@naver.com})
 
 
 <!--
