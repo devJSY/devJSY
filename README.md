@@ -15,6 +15,8 @@ ___
 ## 🤔**Studying**
 <!-- ![Java](https://img.shields.io/badge/Java-007396.svg?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&amp;style=for-the-badge&amp;logo=Spring&amp;logoColor=white)\ -->
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+ 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=white)\
 ![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&amp;style=for-the-badge&amp;logo=C%20Sharp&amp;logoColor=white)
 
