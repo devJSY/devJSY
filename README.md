@@ -2,22 +2,23 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevJSY%2FdevJSY.git&count_bg=%2339D677&title_bg=%230D6513&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## ⚡**Skills**
+## 🤔**Studying**
+<!-- ## ⚡**Skills** -->
 ___
 **Platforms & Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&amp;style=for-the-badge&amp;logo=HTML5&amp;logoColor=white)
+<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&amp;style=for-the-badge&amp;logo=HTML5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&amp;style=for-the-badge&amp;logo=CSS3&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&amp;style=for-the-badge&amp;logo=JavaScript&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&amp;style=for-the-badge&amp;logo=JavaScript&amp;logoColor=white) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&amp;style=for-the-badge&amp;logo=TypeScript&amp;logoColor=white) -->
 
-## 🤔**Studying**
-![Java](https://img.shields.io/badge/Java-007396.svg?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&amp;style=for-the-badge&amp;logo=Spring&amp;logoColor=white)\
+
+<!-- ![Java](https://img.shields.io/badge/Java-007396.svg?&amp;style=for-the-badge&amp;logo=Java&amp;logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&amp;style=for-the-badge&amp;logo=Spring&amp;logoColor=white)\ -->
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=white)\
 ![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&amp;style=for-the-badge&amp;logo=C%20Sharp&amp;logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
 
 <!-- ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&amp;style=for-the-badge&amp;logo=Android&amp;logoColor=white) -->
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white) -->
