@@ -4,7 +4,6 @@
 
 ## 🤔**Studying**
 <!-- ## ⚡**Skills** -->
-___
 
 **Platforms & Languages**<br/>
 
