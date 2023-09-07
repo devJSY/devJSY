@@ -18,9 +18,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&amp;style=for-the-badge&amp;logo=C++&amp;logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=white)
-![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&amp;style=for-the-badge&amp;logo=C%20Sharp&amp;logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&amp;style=for-the-badge&amp;logo=C%20Sharp&amp;logoColor=white) -->
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white) -->
 
 <!-- ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&amp;style=for-the-badge&amp;logo=Android&amp;logoColor=white) -->
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&amp;style=for-the-badge&amp;logo=MySQL&amp;logoColor=white) -->
