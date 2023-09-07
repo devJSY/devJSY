@@ -18,7 +18,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&amp;style=for-the-badge&amp;logo=C++&amp;logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&amp;style=for-the-badge&amp;logo=C&amp;logoColor=white)
-<!-- ![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&amp;style=for-the-badge&amp;logo=C%20Sharp&amp;logoColor=white) -->
+![C#](https://img.shields.io/badge/C%20Sharp-239128.svg?&amp;style=for-the-badge&amp;logo=C%20Sharp&amp;logoColor=white) 
 
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&amp;style=for-the-badge&amp;logo=Python&amp;logoColor=white) -->
 
