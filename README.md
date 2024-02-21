@@ -40,7 +40,13 @@ ___
 ### **BOJ Ranking**
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtmd486)](https://solved.ac/wjdtmd486/)
 
+___
 
+💬 ### **Contect**
+
+- wjdtmd486@gmail.com
+- https://www.youtube.com/@jdev1719
+ 
 <!--
 **devJSY/devJSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
