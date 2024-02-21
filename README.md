@@ -42,7 +42,7 @@ ___
 
 ___
 
-💬 ### **Contect**
+ ### 💬**Contect**
 
 - wjdtmd486@gmail.com
 - https://www.youtube.com/@jdev1719
