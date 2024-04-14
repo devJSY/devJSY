@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevJSY%2FdevJSY.git&count_bg=%2339D677&title_bg=%230D6513&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <iframe width="956" height="538" src="https://www.youtube.com/embed/9kv3QYKJjdI" title="TinyEngine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 
 ## 🤔**Studying**
 
 - 🌱 I’m currently Studying Game Programming   
