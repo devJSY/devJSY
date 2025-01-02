@@ -53,7 +53,7 @@ ___
 <a href="https://youtube.com/@jdev1719?si=EXg1-r_KX9xy62on" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.notion.so/16e6442ba9df408d9d27a951ff825ce9?v=bdda80662a25431db476cd7da9406af0&pvs=4" target="_blank">
+<a href="https://six-meteoroid-7de.notion.site/Dev-J-157fb494e0178087b455cc3fe69773c8?pvs=4" target="_blank">
 <img src=https://img.shields.io/badge/Notion-181717?&style=for-the-badge&logo=Notion&logoColor=White alt=Notion style="margin-bottom: 5px;" />
 </a>  
 </div>  
